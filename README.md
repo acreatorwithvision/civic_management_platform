@@ -34,6 +34,3 @@ A full-stack web application that empowers citizens to report local issues (like
 | Security     | RBAC, SSL/TLS                  |
 
 ---
-
-## 📁 Project Structure
-
